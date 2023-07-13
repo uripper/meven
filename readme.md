@@ -1,3 +1,4 @@
+![meven logo](MEVEN.png)
 # Meven - Video to Audio Conversion Tool
 
 Meven is a simple command line tool designed in Rust to help with converting video files to audio. It focuses on extracting audio from videos.
